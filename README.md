@@ -1,2 +1,3 @@
 # Just-Learning
-Refreshing myself and learning new things. 
+
+Refreshing myself and learning new things. Don't mind me...
